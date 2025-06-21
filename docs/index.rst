@@ -1,7 +1,6 @@
 Why am I not getting my Mediacom emails?
 ========================================
 
-- 
 
 .. toctree::
    :maxdepth: 2
